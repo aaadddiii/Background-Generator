@@ -1,0 +1,8 @@
+body{
+	text-align: center;
+	font-size:2em;
+	background: linear-gradient(to right,red , yellow);
+}
+h1,h2{
+	color: rgba(24,54,16,1);
+}
